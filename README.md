@@ -1,4 +1,4 @@
-<!---🚀 Devanshu Borase's Portfolio
+mi<!---🚀 Devanshu Borase's Portfolio
 
 Welcome to my GitHub Portfolio! This repository contains my projects, designs, and engineering work in Mechanical Engineering, SolidWorks, 3D Metrology, and Electric Vehicles (EVs).
 
@@ -70,7 +70,3 @@ Applied GD&T principles for precision manufacturing.
 
 ⭐ If you like my work, consider giving this repo a star! ⭐
 
-
-devborase/devborase is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
