@@ -62,7 +62,7 @@ Applied GD&T principles for precision manufacturing.
 📬 Contact Me
 
 📧 Email: borasedevanshu@gmail.com
-🔗 LinkedIn: Devanshu Borase's LinkedIn
+🔗 LinkedIn:https://www.linkedin.com/in/devanshu-borase-637b762b3
 
 🌐 Website: yourwebsite.github.io (Replace with your actual link)
 
