@@ -1,6 +1,6 @@
-mi<!---🚀 Devanshu Borase's Portfolio
+🚀 Devanshu Borase's Portfolio
 
-Welcome to my GitHub Portfolio! This repository contains my projects, designs, and engineering work in Mechanical Engineering, SolidWorks, 3D Metrology, and Electric Vehicles (EVs).
+Welcome to my GitHub Portfolio! This repository contains my projects, designs, and engineering work in Mechanical Engineering, SolidWorks,Creo,3D Metrology, and Electric Vehicles (EVs).
 
 🔗 Live Website
 
@@ -13,7 +13,7 @@ Visit My Website (Replace with your actual GitHub Pages link)
 
 🎓 Mechanical Engineering Student at Ajeenkya DY Patil School of Engineering, Pune
 💡 Passionate about Electric Vehicles (EVs), CAD Designing & 3D Metrology
-🔧 Skilled in SolidWorks, Engineering Design & Analysis
+🔧 Skilled in SolidWorks,Creo, Engineering Design & Analysis
 📩 Connect with me on LinkedIn
 
 
@@ -21,7 +21,7 @@ Visit My Website (Replace with your actual GitHub Pages link)
 
 📂 Projects & Portfolio
 
-🏎️ EV Battery Design (SolidWorks)
+🏎️ EV Battery Design (SolidWorks,Creo)
 
 Designed a lightweight EV battery module for improved efficiency.
 
@@ -51,6 +51,7 @@ Applied GD&T principles for precision manufacturing.
 
 🔹 SolidWorks
 🔹 AutoCAD
+🔹 Creo
 🔹 Fusion 360
 🔹 3D Scanning & Metrology Tools
 🔹 HTML, CSS (for website development)
